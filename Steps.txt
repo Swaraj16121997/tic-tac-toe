@@ -1,0 +1,11 @@
+1. create all the model classes, interfaces or enums with their getters and setters
+2. code in main java file to take command line inputs from user
+3. Intent to create the game object. Use builder design pattern.
+4. Implement MVC architecture in the main client code
+5. Intent to create the logic of the game.
+
+Logic of the game:
+
+    - display the board. (Remember everything is going to happen via the controller)
+    - execute next move
+    -
